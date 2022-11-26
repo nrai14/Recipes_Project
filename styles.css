@@ -25,14 +25,14 @@ h2:hover {
 .top-container {
     margin-right: 0;
     margin-left: 0;
+    display: inline-block;
 }
 
 .menu-title {
-    text-indent: 40vh;
+    text-align: center;
     padding: 30px;
-    display: table;
     background-color: rgb(103, 250, 132);
-    margin-right: 0;
+    margin: 10px;
 }
 
 a {
@@ -41,10 +41,8 @@ a {
 
 
 .drinks {
-    text-indent: 50vh;
-    padding: 20px;
     text-decoration: none;
-    
+    display: inline-block;
 }
 
 li:hover {
@@ -52,18 +50,20 @@ li:hover {
 }
 
 #list {
-    list-style-position: inside;
-    padding: 10px;
+   
+    
 }
 
 p {
-    text-indent: 70vh;
+    
     
 }
 
 .DM, .JW, .JS {
-    padding: 50px;
     border-style: 2px solid black;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
 }
 
 .DM {
@@ -76,5 +76,14 @@ p {
 
 .JS {
     background-color: silver;
+}
+
+.main-menu {
+    display: inline-block;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
 }
 /* Hover effect on each drink item title? Maybe glitch effects? */
