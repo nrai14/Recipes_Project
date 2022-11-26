@@ -19,6 +19,11 @@ body {
     width: 400px;
     border-radius: 25px;
     margin-bottom: 50px;
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 0 0 5px cyan;
+    box-shadow: 0 0 5px white;
 }
 
 h1:hover {
@@ -39,10 +44,14 @@ h2:hover {
     text-align: center;
     padding: 30px;
     background-color: rgb(103, 250, 132,0.8);
-    width: 400px;
+    width: 290px;
     margin: auto;
     border-radius: 25px;
     margin-bottom: 30px;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 5px cyan;
+    box-shadow: 0 0 5px white;
+    font-family: sans-serif;
 }
 
 a {
@@ -55,8 +64,14 @@ a {
     display: inline-block;
 }
 
+li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
 li:hover {
-    font-size: larger;
+    font-size: 25px;
 }
 
 #list {
@@ -65,18 +80,20 @@ li:hover {
 }
 
 p {
-    
+    color: white;
     
 }
 
 .DM, .JW, .JS {
     border-style: 2px solid black;
     margin: auto;
-    padding: 20px;
+    padding: 30px;
     width: 500px;
     text-align: center;
     border-radius: 25px;
     margin-bottom: 20px;
+    text-shadow: 0 0 5px cyan;
+    box-shadow: 0 0 5px white;
 }
 
 .DM {
@@ -100,3 +117,5 @@ main {
     flex-direction: column;
 }
 /* Hover effect on each drink item title? Maybe glitch effects? */
+
+
