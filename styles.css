@@ -7,13 +7,17 @@ body {
 }
 
 .menu-title {
-    text-indent: 50vh;
+    text-indent: 40vh;
 }
 
 .drinks {
-    text-indent: 60vh;
+    text-indent: 50vh;
 }
 
 #list {
     list-style-position: inside;
+}
+
+p {
+    text-indent: 70vh;
 }
