@@ -1,0 +1,19 @@
+body {
+    display: block; 
+}
+
+.main_title {
+    text-align: center;
+}
+
+.menu-title {
+    text-indent: 50vh;
+}
+
+.drinks {
+    text-indent: 60vh;
+}
+
+#list {
+    list-style-position: inside;
+}
