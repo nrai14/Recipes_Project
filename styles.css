@@ -1,17 +1,24 @@
 * {
     margin: 0;
     padding: 0;
+    
 }
 
 body {
-    display: block; 
-    height: 100vh;
+    background-image: url("./Images/cyberpunk_2077_afterlife_wallpaper_1920x1080_by_derzelaz_deariyz-fullview.jpg");
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
 }
 
 .main_title {
     text-align: center;
     padding: 30px;
-    background-color: rgb(249, 249, 96);
+    background-color: rgb(249, 249, 96, 0.8);
+    margin: auto;
+    width: 400px;
+    border-radius: 25px;
+    margin-bottom: 50px;
 }
 
 h1:hover {
@@ -31,8 +38,11 @@ h2:hover {
 .menu-title {
     text-align: center;
     padding: 30px;
-    background-color: rgb(103, 250, 132);
-    margin: 10px;
+    background-color: rgb(103, 250, 132,0.8);
+    width: 400px;
+    margin: auto;
+    border-radius: 25px;
+    margin-bottom: 30px;
 }
 
 a {
@@ -61,21 +71,24 @@ p {
 
 .DM, .JW, .JS {
     border-style: 2px solid black;
-    text-align: center;
-    margin: 20px;
+    margin: auto;
     padding: 20px;
+    width: 500px;
+    text-align: center;
+    border-radius: 25px;
+    margin-bottom: 20px;
 }
 
 .DM {
-    background-color: rgb(188, 231, 216);
+    background-color: rgb(188, 231, 216,0.8);
 }
 
 .JW {
-    background-color: rgb(207, 113, 113);
+    background-color: rgb(207, 113, 113,0.8);
 }
 
 .JS {
-    background-color: silver;
+    background-color: rgb(196, 185, 185,0.8);
 }
 
 .main-menu {
