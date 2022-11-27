@@ -12,7 +12,7 @@ I have utilised a fitting GIF background as well as some interactive aspects suc
 
 Overtime, I will aim to update this project as I learn more skills, in particular I am looking to improve this by delving deeper into JavaScript in order to create more dynamic and responsive work. 
 
-Please see link to the deployed website here: 
+Please see link to the deployed website here: https://nrai14.github.io/Recipes_Project/
 
 ## ScreenShot 
 
