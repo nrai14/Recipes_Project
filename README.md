@@ -16,7 +16,7 @@ Please see link to the deployed website here:
 
 ## ScreenShot 
 
-Please see here:
+Please see here: https://github.com/nrai14/Recipes_Project/issues/1#issue-1465411628
 
 ## Credits 
 
